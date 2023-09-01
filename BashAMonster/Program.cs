@@ -6,7 +6,6 @@ Zombie ZombPeter = new Zombie("Peter");
 
 Enemy[] enemyArr = { SkellyJonas, ZombPeter };
 int currentEnemy = generator.Next(2);
-string answer;
 
 while (true)
 {
@@ -17,7 +16,7 @@ while (true)
     }
     System.Console.Clear();
     System.Console.WriteLine("Do you want to play again? y/n");
-    answer = System.Console.ReadLine();
+    string answer = System.Console.ReadLine();
     while (answer != "y" && answer != "n")
     {
         System.Console.WriteLine("You have to write y or n");
