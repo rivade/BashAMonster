@@ -1,0 +1,14 @@
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\bin\Debug\net7.0\BashAMonster.exe
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\bin\Debug\net7.0\BashAMonster.deps.json
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\bin\Debug\net7.0\BashAMonster.runtimeconfig.json
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\bin\Debug\net7.0\BashAMonster.dll
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\bin\Debug\net7.0\BashAMonster.pdb
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\obj\Debug\net7.0\BashAMonster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\obj\Debug\net7.0\BashAMonster.AssemblyInfoInputs.cache
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\obj\Debug\net7.0\BashAMonster.AssemblyInfo.cs
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\obj\Debug\net7.0\BashAMonster.csproj.CoreCompileInputs.cache
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\obj\Debug\net7.0\BashAMonster.dll
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\obj\Debug\net7.0\refint\BashAMonster.dll
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\obj\Debug\net7.0\BashAMonster.pdb
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\obj\Debug\net7.0\BashAMonster.genruntimeconfig.cache
+C:\Users\theo.lindqvist\Documents\NTI Programmering\BashAMonster\BashAMonster\obj\Debug\net7.0\ref\BashAMonster.dll
